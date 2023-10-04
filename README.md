@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julien Lerosty
 ======================================================================================================================================
 
-Backend Software Engineer
+Data Engineer
 -------------------------
 
 I am a TPM aspiring to become a backend software engineer who loves creating servers, working with Flask, Selenium and any Jupyter notebook to help companies sorting data and help building models to learn about different business cases. I have been using Python for a couple of years and starting committing to GitHub a few month ago!
